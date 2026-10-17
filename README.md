@@ -8,9 +8,9 @@ This repository contains the solutions to the exercises assigned and completed o
 
 The repository is organized into the following main files:
 
-- **`HackerRank_Solutions.ipynb` (Google Colab Notebook)**:
+- **`Aris_Homework_Amoruso.ipynb` (Google Colab Notebook)**:
   * Contains the source code for each implemented and executed exercise.
   * To facilitate review and tracking of the activities, the code cells are arranged in **reverse chronological order**: from the **most recently completed exercise to the earliest one**.
 
-- **`HackerRank_Submissions.pdf`**:
+- **`Submission_Amoruso.pdf`**:
   * A summary document containing official verification, test case results, and confirmed (*Accepted*) submissions recorded on the HackerRank platform profile.
